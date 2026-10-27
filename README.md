@@ -1,11 +1,16 @@
 # Monster Collection
-## View the details of your favourite Monsters!
+## View the details of your favourite Monsters By just clicking on their cards!
 
 ## Description
 ### You will have famous monster cards and you can read the information of each monster. It is made entirely from Vanilla HTML CSS and JavaScript.
 
+### Made from purely HTML CSS and JS, used css perspectives to rotate the card and reveal its information written in its backside
+
 ## How to play it?
 ### You will be given different monster cards, if you want to see details of any monster, simply you just have to click on the card and it will flip the card and you can read the monster details from the back of the cards, and than you can click anywhere except of the card, it will close the current card that you have opened.
+
+## Inspiration?
+### Got inspired by the Spooky October to make monster stuff...
 
 ## Demo Link?
 ### [Monster Collection](https://shayanazfar.github.io/Monster-Collection/)
